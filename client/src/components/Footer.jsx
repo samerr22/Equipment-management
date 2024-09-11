@@ -1,4 +1,3 @@
-
 import gmail from "../img/gmail.png";
 import google from "../img/google-maps.png";
 
